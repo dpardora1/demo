@@ -1,0 +1,5 @@
+Este es un archivo de ejemplo para demostrar el script read_file.py
+Puedes ejecutar el script con: python3 read_file.py ejemplo.txt
+
+El script puede leer cualquier archivo de texto y mostrará su contenido
+completo en la consola con manejo de errores apropiado.
